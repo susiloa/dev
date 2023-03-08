@@ -1,6 +1,7 @@
 {
-    "workbench.colorTheme": "Quiet Light",
-    "workbench.editorAssociations": {
-        "*.md": "vscode.markdown.preview.editor"
-    }
+  "workbench.colorTheme": "Quiet Light",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor",
+    "*.sqlite": "default"
+  }
 }
